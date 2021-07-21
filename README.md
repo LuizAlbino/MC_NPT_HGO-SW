@@ -8,6 +8,8 @@ Some important details before you start:
 
 2. All units must be reduced: position/distances --> σ_s , energy --> ε. A quick guide to reducing units can be found at  APPENDIX B.1 - Computer of Simulation of Liquids, Allen & Tildesley, 2nd edition, 2017.
 
-3. This work was developed during my undergrad course, feel free to suggest corrections, improvements or new approachs, i'll appreciate all of them :D.
+3. Some comments are in portuguese, others in English, sorry for the mess, i'll try to put them all in english soon.
+
+4. This work was developed during my undergrad course, feel free to suggest corrections, programming tips, improvements or new approachs, i'll appreciate all of them :D.
 
 Any questions, I am open to messages. 
