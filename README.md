@@ -4,7 +4,7 @@ These are the files for Monte Carlo Simulations of Anisotropic Systems on Isobar
 
 Some important details before you start:
 
-1. The potencial model used for simulations is derived from Barker-Handeron Perturbation Theory Hard Gaussion Overlaps as reference system and the Square-Well potencial as perturbation system. Main reference: MODELING NONSPHERICAL PARTICLES: MONTE CARLO SIMULATIONS AND EQUATIONS OF STATE BASED ON PERTURBATION THEORY. Joyce T. Lopes (2020).
+1. The potencial model used for simulations is derived from Barker-Handeron Perturbation Theory and an EOS for anisotropic systems using Hard Gaussian Overlaps as reference system and the Square-Well potencial as perturbation system. Main reference: MODELING NONSPHERICAL PARTICLES: MONTE CARLO SIMULATIONS AND EQUATIONS OF STATE BASED ON PERTURBATION THEORY. Joyce T. Lopes (2020).
 
 2. All units must be reduced: position/distances --> σ_s , energy --> ε. A quick guide to reducing units can be found at  APPENDIX B.1 - Computer of Simulation of Liquids, Allen & Tildesley, 2nd edition, 2017.
 
