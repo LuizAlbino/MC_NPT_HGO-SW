@@ -1,5 +1,5 @@
 # MC_NPT_HGO-SW
-These are the files for a program of Monte Carlo Simulations of Anisotropic Systems on Isobaric-Isothermal Ensemble (NPT). They were developed during 2020 - 2021 under the supervision of Prof. PhD Luis Fernando Mercier Franco at School of Chemical Engineering - Unicamp - Brazil.
+These are the files for Monte Carlo Simulations of Anisotropic Systems on Isobaric-Isothermal Ensemble (NPT) program. They were developed during 2020 - 2021 under the supervision of Prof. PhD Luis Fernando Mercier Franco at School of Chemical Engineering - Unicamp - Brazil.
 
 
 Some important details before you start:
