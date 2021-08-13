@@ -6,7 +6,6 @@ module global_variables
         real*8, parameter :: avogadro  = 6.0221409d23           !numero de avogadro
         real*8, parameter :: boltzmann = 1.38064852d-23         !cte de boltzmann
         real*8, parameter :: r         = avogadro*boltzmann     !Coeficiente do gás ideal
-        real*8            :: rho, molar_mass                    !kg/m3, g/mol e Angstrons
         real*8            :: box_length(3)                      !tamanho das arestas da caixa
         real*8            :: eta0, rho_red                      !densidade numerica e reduzida  
         real*8            :: mtoang                             !conversão de metros para angstrons
@@ -33,5 +32,6 @@ module global_variables
         integer*8         :: n_adjust                           !intervalo para ajustar drmax
         integer*8         :: nacc                               !numero de transições aceitas
         character         :: atom*1, dummy*1                    !letra identificadora dos atomos
+        character         :: temp_c*3, press_c*3
 
 end module global_variables
